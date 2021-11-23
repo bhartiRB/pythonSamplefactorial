@@ -1,0 +1,2 @@
+# pythonSamplefactorial
+factorial series code
